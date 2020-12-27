@@ -9,7 +9,7 @@ Not only Python packages(ex. rclpy) but also tools(ex. rviz2) and libraries(ex. 
 
 Supported Python versions: 3.6, 3.7, 3.8
 
-Support platforms: Linux, MacOSX
+Support platforms: Ubuntu(18.04, 20.04), MacOSX
 
 (Not all packages are tested.)
 
