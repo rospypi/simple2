@@ -5,7 +5,7 @@
 ## What is this for?
 
 This is Python index server for ROS2(https://rospypi.github.io/simple2/).
-Not only Python packages(ex. rclpy) but also tools(ex. rviz2) and libraries(ex. rcl) can be installed.
+Not only Python packages(ex. rclpy) but also tools(ex. rviz2) and libraries(ex. rcl) can be installed into the virtual env.
 
 Supported Python versions: 3.6, 3.7, 3.8
 
